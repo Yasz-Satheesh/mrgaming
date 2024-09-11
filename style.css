@@ -1,0 +1,39 @@
+.one{
+    position: relative;
+    right: 330px;
+    top: 20px;
+   
+
+
+}
+.two{
+    position: relative;
+    left: 330px;
+    bottom: 375px;
+
+}
+   
+.link:hover{
+    position: absolute;
+    max-width:10px;
+    
+
+
+}
+
+.about{
+    position: relative;
+    bottom: 350px;
+    text-align: center;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 0 30px blue
+    0 0 20px;
+   
+    padding: 10px;
+    cursor: pointer;
+}
